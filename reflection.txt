@@ -1,0 +1,7 @@
+This project helped me understand end-to-end workflow automation using AI, APIs, and cloud integrations. I implemented a full-stack lead intake system using React and Django that automates business audit generation, PDF report creation, email delivery, and Google Sheets logging.
+
+One challenge was handling Google Drive uploads using service accounts due to storage quota limitations. I solved this by implementing local PDF archiving and maintaining workflow continuity.
+
+I also learned about integrating AI models, handling API failures with fallback systems, and structuring scalable backend services.
+
+If given more time, I would improve the UI/UX, deploy the platform publicly, and implement OAuth-based Google Drive uploads with advanced analytics dashboards.

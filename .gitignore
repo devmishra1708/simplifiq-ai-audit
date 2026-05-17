@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment
+.env
+
+# Google credentials
+credentials.json
+
+# Generated files
+generated_reports/
+
+# Node
+frontend/node_modules/
+
+# Vite
+frontend/dist/
+
+# OS files
+.DS_Store
+Thumbs.db
