@@ -57,6 +57,8 @@ npm run dev
 ```
 
 ---
+## Frontend screenshot
+<img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/e4f6708a-eba2-4c24-86ec-e76c89581422" />
 
 ## Workflow
 
