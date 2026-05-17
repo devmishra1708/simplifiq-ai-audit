@@ -59,6 +59,10 @@ npm run dev
 ---
 ## Frontend screenshot
 <img width="1915" height="1026" alt="image" src="https://github.com/user-attachments/assets/e4f6708a-eba2-4c24-86ec-e76c89581422" />
+## Automated email with pdf attached screenshot
+<img width="1917" height="1030" alt="image" src="https://github.com/user-attachments/assets/5c5d771f-5681-41f2-bbee-fa07f64e06cb" />
+## Google sheets update with timestamp screenshot
+<img width="1497" height="792" alt="image" src="https://github.com/user-attachments/assets/11ff563d-ed60-4860-9749-28ed19d5a444" />
 
 ## Workflow
 
